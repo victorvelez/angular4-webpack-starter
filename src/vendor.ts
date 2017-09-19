@@ -10,6 +10,8 @@ import 'rxjs';
 // Other vendors for example jQuery, Bootstrap etc
 // You can import js, ts, css, sass, ...
 
+
+import "font-awesome/scss/font-awesome.scss";
 import "bootstrap/scss/bootstrap.scss";
 import 'jquery'
 import 'popper.js'

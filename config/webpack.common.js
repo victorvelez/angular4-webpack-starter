@@ -51,7 +51,7 @@ module.exports = {
             },
             {
                 test: /\.css$/,
-                loaders: ['to-string-loader', 'css-loader']
+                loaders: ['to-string-loader', 'css-loader', 'sass-loader']
             }
         ]
     },
